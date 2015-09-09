@@ -1,0 +1,2 @@
+Control the green snake to eat the red stuff
+This is just that easy
